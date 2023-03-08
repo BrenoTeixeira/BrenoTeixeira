@@ -1,6 +1,6 @@
 ### Hi there, I'm Breno Teixeira 👋
 
-[![Breno Teixeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTeixeira)](https://github.com/BrenoTeixeira/github-readme-stats?username=BrenoTeixeira&show_icons=true&theme=gruvbox)
+[![Breno Teixeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTeixeira&username=BrenoTeixeira&show_icons=true&theme=great_gatsby)](https://github.com/BrenoTeixeira/github-readme-stats)
 <!--
 **BrenoTeixeira/BrenoTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
