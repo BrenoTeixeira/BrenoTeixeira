@@ -41,12 +41,22 @@ Sou apaixonado por resolver problemas complexos e encontrar padrões ocultos nos
 
 # Projetos
 
-## Health Insurance - Ordenação de Clientes
+## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
 Implantação de um modelo de classificação para ordenar os clientes de acordo com o interesse em adquirir um novo produto (seguro de veículos). Isso permitiu que o time de vendas a priorizasse os clientes mais propensos a comprar o produto. Para praticidade os resultados do modelo podem ser acessados via GoogleSheets.
 
-
-## Rossmann - Previsão de Vendas
+## [Rossmann - Previsão de Vendas](https://github.com/BrenoTeixeira/rossman-sales-prediction-project)
 Implantação de um modelo de previsão de vendas de uma Rede de Farmácias da Europa com o Render, e fazendo a integração com um Bot no Telegram.
+
+## [Test A/B](https://github.com/BrenoTeixeira/test_AB_eletronic_house)
+
+Realização de um teste A/B para verificar se um novo formulário de pagamento é melhor do que o formulário atual.
+
+## [Insiders - Loyalty Program](https://github.com/BrenoTeixeira/insider_fidelity_program)
+
+## [Projeto de Insights](https://github.com/BrenoTeixeira/house-rocket-insights-project)
+
+## [Previsão de Doenças Cardiovasculares](https://github.com/BrenoTeixeira/cardio_catch_disease)
+
 <!--
 **BrenoTeixeira/BrenoTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
