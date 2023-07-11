@@ -42,18 +42,24 @@ Sou apaixonado por resolver problemas complexos e encontrar padrões ocultos nos
 # Projetos
 
 ## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
-Implantação de um modelo de classificação para ordenar os clientes de acordo com o interesse em adquirir um novo produto (seguro de veículos). Isso permitiu que o time de vendas a priorizasse os clientes mais propensos a comprar o produto. Para praticidade os resultados do modelo podem ser acessados via GoogleSheets.
+
+Implementei um modelo de classificação que dá o score de propensão de compra de um novo produto aos clientes para um time de vendas . Coletei os dados de uma pesquisa sobre o interesse em adquirir um seguro de carro, realizada pela empresa com 380.000  clientes, realizei a limpeza de dados, fiz feature engineering e trenei um modelo para fornecer os scores de propensão de compra, e ordenei uma base de dados com clientes que não foram entrevistados. Com esse modelo, o time de vendas será capaz de atingir 42% dos clientes interessados com as 20000 ligações que ele pode realizar; isso significa um desempenho 2.66 vezes melhor do que o método atual.
 
 ## [Rossmann - Previsão de Vendas](https://github.com/BrenoTeixeira/rossman-sales-prediction-project)
-Implantação de um modelo de previsão de vendas de uma Rede de Farmácias da Europa com o Render, e fazendo a integração com um Bot no Telegram.
+
+Neste projeto eu utilizei Python, Estatística, e técnicas supervisionadas de machine learning (Algoritmos de Regressão) para prever as vendas das próximas seis semanas das lojas da Rossmann — uma rede de farmácias da Europa. O produto final deste projeto foi um Bot no Telegram que retorna a previsão de vendas ao receber o número de uma das lojas. Isso permite que as previsões possam ser acessadas de qualquer lugar.
+
+## [Insiders - Loyalty Program](https://github.com/BrenoTeixeira/insider_fidelity_program)
+
+Realizei uma análise de segmentação de clientes para o time de marketing. Utilizei algoritmos de clusterização (k-means, Gaussian Mixture Model, e Agglomerative Clustering) em uma base de dados contendo o histórico de compras dos clientes. Identifiquei 10 segmentos de clientes para ajudar o time de marketing fazer ofertas personalizadas para cada grupo e criar um programa de fidelidade para o melhor grupo de clientes. Desenvolvi este projeto utilizando Python, pandas scikit-learn e técnicas de redução de dimensionalidade (PCA, T-SNE, UMAP).
 
 ## [Test A/B](https://github.com/BrenoTeixeira/test_AB_eletronic_house)
 
 Realização de um teste A/B para verificar se um novo formulário de pagamento é melhor do que o formulário atual.
 
-## [Insiders - Loyalty Program](https://github.com/BrenoTeixeira/insider_fidelity_program)
-
 ## [Projeto de Insights](https://github.com/BrenoTeixeira/house-rocket-insights-project)
+
+
 
 ## [Previsão de Doenças Cardiovasculares](https://github.com/BrenoTeixeira/cardio_catch_disease)
 
