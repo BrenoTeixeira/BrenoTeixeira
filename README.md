@@ -1,5 +1,8 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/BrenoTeixeira/BrenoTeixeira/blob/main/README.en.md)
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/BrenoTeixeira)
+
+
 ### Hi there, I'm Breno Teixeira 👋
 <div align="center">
 <a href="https://github.com/BrenoTeixeira">
