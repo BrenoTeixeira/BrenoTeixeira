@@ -20,3 +20,30 @@ Almost a year ago, I became a member of a DS community where I developed hands-o
 Also, in the community, I have the opportunity to share knowledge and experiences with community members through study groups, tutoring, and study groups.
 
 I love solving complex problems and finding hidden patterns in data. With my analytical skills, I can turn data into actionable information (insights).
+
+**Tools & Skills**
+
+1. Data Visualization:
+  - Power BI
+  - Tableau
+    
+2. Programming Languages:
+  - Python for Data Science:
+    - Machine Learning: Scikit-Learn,
+    - Statisics: Scipy, Statsmodels
+    - Web Scraping: Beautiful Soup and Selenium
+    - Data Visualization: Matplitlib, Seaborn, Plotly.
+  - SQL
+    
+3. Statistics e Machine Learning
+  - Descriptive and Inferêncial statistics (dispersion, asymmetry, kurtosis, density, hypothesis tests, A/B Test).
+  - Regression Algorithms, classification, and clustering.
+  - Feature Selection Techniques.
+  - Algorithm performance metrics (RMSE, MAE, MAPE, Confusion Matrix, Precision, Recall, Curva ROC, Lift Curve, AUC, Sillhoute score, elbow method).
+
+
+# Projects
+
+## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
+
+I implemented a classification model that gives the score of propensity to purchase a new product to customers for the sales team. I collected data from a survey on the interest in purchasing car insurance, carried out by the company with 380,00 customers, performed data cleaning, feature engineering and trained a model to provide purchase propensity scores, and ordered a database with customers who were not interviewed. With this model, the sales team will be able to reach 42% of interested customers with 20,000 calls that are able to make; this means a 2.66 times better performance than the current method - random calls.
