@@ -47,3 +47,12 @@ I love solving complex problems and finding hidden patterns in data. With my ana
 ## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
 
 I implemented a classification model that gives the score of propensity to purchase a new product to customers for the sales team. I collected data from a survey on the interest in purchasing car insurance, carried out by the company with 380,00 customers, performed data cleaning, feature engineering and trained a model to provide purchase propensity scores, and ordered a database with customers who were not interviewed. With this model, the sales team will be able to reach 42% of interested customers with 20,000 calls that are able to make; this means a 2.66 times better performance than the current method - random calls.
+
+
+## [Rossmann - Sales Prediction](https://github.com/BrenoTeixeira/rossman-sales-prediction-project)
+
+In this project, I used Python, Statistics, and supervised machine learning techniques (Regression Algorithms) to forecast sales for the next six weeks at Rossmann stores — a chain of pharmacies in Europe. The final product of this project was a Telegram Bot that returns the sales forecast when receiving the number of one of the stores. This allows forecasts to be accessed from anywhere.
+
+## [Insiders - Loyalty Program](https://github.com/BrenoTeixeira/insider_fidelity_program)
+
+Performed a customer segmentation analysis for the marketing team. I used clustering algorithms (k-means, Gaussian Mixture Model, and Agglomerative Clustering) in a database containing the customers' purchase history. I identified 10 customer segments to help the marketing team make personalized offers for each group and create a loyalty program for the best customer group. I developed this project using Python, pandas scikit-learn, and dimensionality reduction techniques (PCA, T-SNE, UMAP).
