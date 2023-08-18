@@ -1,4 +1,4 @@
-[![pt-br](https://github.com/BrenoTeixeira/BrenoTeixeira/edit/main/README.pt.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/BrenoTeixeira/BrenoTeixeira/edit/main/README.pt.md)
 
 ### Hi there, I'm Breno Teixeira 👋
 <div align="center">
