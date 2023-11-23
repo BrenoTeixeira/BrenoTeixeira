@@ -56,15 +56,23 @@ Neste projeto eu utilizei Python, Estatística, e técnicas supervisionadas de m
 
 Realizei uma análise de segmentação de clientes para o time de marketing. Utilizei algoritmos de clusterização (k-means, Gaussian Mixture Model, e Agglomerative Clustering) em uma base de dados contendo o histórico de compras dos clientes. Identifiquei 10 segmentos de clientes para ajudar o time de marketing fazer ofertas personalizadas para cada grupo e criar um programa de fidelidade para o melhor grupo de clientes. Desenvolvi este projeto utilizando Python, pandas scikit-learn e técnicas de redução de dimensionalidade (PCA, T-SNE, UMAP).
 
-## [Test A/B](https://github.com/BrenoTeixeira/test_AB_eletronic_house)
+## [Teste A/B](https://github.com/BrenoTeixeira/test_AB_eletronic_house)
 
-Realização de um teste A/B para verificar se um novo formulário de pagamento é melhor do que o formulário atual.
+Neste projeto, realizei um teste A/B com o objetivo de determinar a superioridade entre o formulário de pagamento atual e uma versão recém-desenvolvida. A iniciativa visava otimizar a experiência do usuário e, por consequência, maximizar a eficácia na conversão de transações. 
+
+## [Dashboard Financeiro](https://brenoteixeira.github.io/porfolio/financial-report)
+
+Neste projeto eu criei um relatório no Power BI com 7 Dashboards interativos: Demonstração de Fluxo de Caixa (DFC), Demonstração de Resultado do Exercício (DRE), Análise de Fluxo de Caixa, Análise de Resultado, Despesas, Despesas com Pessoal e Despesas Administrativas. Esse relatório permitiu que os gerentes verificassem facilmente a situação financeira da empresa, e os ajudou a identificar áreas de alto custo e oportunidades de otimização.
 
 ## [Projeto de Insights](https://github.com/BrenoTeixeira/house-rocket-insights-project)
 
-
+Neste projeto, concebi e implementei uma aplicação web inovadora com o objetivo de ajudar potenciais compradores a identificar oportunidades de compra de imóveis abaixo do preço médio em uma região específica. A aplicação, desenvolvida usando Python e a biblioteca Streamlit, integra mapas interativos e tabelas para uma experiência visual e informativa.
 
 ## [Previsão de Doenças Cardiovasculares](https://github.com/BrenoTeixeira/cardio_catch_disease)
+
+Neste projeto, utilizei Python, Estatística e Algoritmos de Classificação para prever doenças cardíacas em estágios iniciais. O valor do diagnóstico fornecido pela empresa é baseado em sua precisão. Desenvolvi este projeto com o objetivo de aumentar os ganhos da empresa, auxiliando a equipe responsável pelos diagnósticos e, assim, elevando a precisão dos resultados. Em comparação com a situação atual, espera-se um aumento de 83,33% no lucro de cada diagnóstico ao implementar o modelo. As previsões do modelo podem ser acessadas via Google Sheets.
+
+
 
 <!--
 **BrenoTeixeira/BrenoTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
