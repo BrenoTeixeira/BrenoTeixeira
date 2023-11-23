@@ -46,7 +46,7 @@ Sou apaixonado por resolver problemas complexos e encontrar padrões ocultos nos
 
 ## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
 
-Implementei um modelo de classificação que dá o score de propensão de compra de um novo produto aos clientes para um time de vendas . Coletei os dados de uma pesquisa sobre o interesse em adquirir um seguro de carro, realizada pela empresa com 380.000  clientes, realizei a limpeza de dados, fiz feature engineering e trenei um modelo para fornecer os scores de propensão de compra, e ordenei uma base de dados com clientes que não foram entrevistados. Com esse modelo, o time de vendas será capaz de atingir 42% dos clientes interessados com as 20000 ligações que ele pode realizar; isso significa um desempenho 2.66 vezes melhor do que o método atual.
+Implementei um modelo de classificação que dá o score de propensão de compra de um novo produto aos clientes para um time de vendas . Coletei os dados de uma pesquisa sobre o interesse em adquirir um seguro de carro, realizada pela empresa com 380.000  clientes, realizei a limpeza de dados, fiz feature engineering e trenei um modelo para fornecer os scores de propensão de compra, e ordenei uma base de dados com clientes que não foram entrevistados. Com esse modelo, o time de vendas será capaz de atingir 42% dos clientes interessados com as 20.000 ligações que ele pode realizar; isso significa um desempenho 2,66 vezes melhor do que o método atual.
 
 ## [Rossmann - Previsão de Vendas](https://github.com/BrenoTeixeira/rossman-sales-prediction-project)
 
