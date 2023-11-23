@@ -44,7 +44,7 @@ I love solving complex problems and finding hidden patterns in data. With my ana
 
 # Projects
 
-## [Health Insurance - Ordenação de Clientes](https://github.com/BrenoTeixeira/health_insurance_ranking)
+## [Health Insurance - Customer Sorting](https://github.com/BrenoTeixeira/health_insurance_ranking)
 
 I implemented a classification model that gives the score of propensity to purchase a new product to customers for the sales team. I collected data from a survey on the interest in purchasing car insurance, carried out by the company with 380,00 customers, performed data cleaning, feature engineering and trained a model to provide purchase propensity scores, and ordered a database with customers who were not interviewed. With this model, the sales team will be able to reach 42% of interested customers with 20,000 calls that are able to make; this means a 2.66 times better performance than the current method - random calls.
 
