@@ -57,7 +57,7 @@ During this challenging project, I implemented an advanced sales forecasting mod
 
 During this project, I conducted a customer segmentation analysis for the marketing team. I used clustering algorithms, including k-means, Gaussian Mixture Model, and Agglomerative Clustering, on a database containing customers' purchase history. I identified 10 customer segments to assist the marketing team in creating personalized offers for each group and in developing a loyalty program for the best-performing customer group. I developed this project using Python, pandas, scikit-learn, and dimensionality reduction techniques.
 
-## [Dashboard Financeiro](https://brenoteixeira.github.io/porfolio/financial-report)
+## [Financial Dashboard](https://brenoteixeira.github.io/porfolio/financial-report)
 
 In this project, I created a Power BI report with 7 interactive dashboards: Cash Flow Statement (DFC), Income Statement (DRE), Cash Flow Analysis, Profit Analysis, Expenses, Personnel Expenses, and Administrative Expenses. This report enabled managers to easily assess the company's financial situation and aided in identifying high-cost areas and optimization opportunities.
 
