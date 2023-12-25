@@ -50,7 +50,8 @@ During this project, I developed and implemented a classification model aimed at
 
 ## [Rossmann - Sales Prediction](https://github.com/BrenoTeixeira/rossman-sales-prediction-project)
 
-In this project, I used Python, Statistics, and supervised machine learning techniques (Regression Algorithms) to forecast sales for the next six weeks at Rossmann stores — a chain of pharmacies in Europe. The final product of this project was a Telegram Bot that returns the sales forecast when receiving the number of one of the stores. This allows forecasts to be accessed from anywhere.
+
+During this challenging project, I implemented an advanced sales forecasting model for an extensive pharmacy network in Europe using the Render platform. This model was developed to anticipate future sales (in monetary value) to assist the CFO in resource allocation for store renovations. The project's results not only significantly improved the accuracy of sales forecasts but also transformed how the management team interacted with these vital pieces of information. Integration with Telegram provided efficient and real-time communication, making this project a valuable contribution to the operational effectiveness of the pharmacy network. Tools used: Machine Learning, Python, Pandas, Matplotlib, Git, Github, and scikit-learn.
 
 ## [Insiders - Loyalty Program](https://github.com/BrenoTeixeira/insider_fidelity_program)
 
