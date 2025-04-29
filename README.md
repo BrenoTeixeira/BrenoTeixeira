@@ -13,7 +13,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTeixeir
 ## Sobre
 Sou formado em Engenharia Civil, e atualmente estou estudando Ciência de Dados. Estou cursando o primeiro período de Ciência de Dados.
 
-Há quase um ano, eu me tornei membro da Comunidade DS onde eu desenvolvi projetos pessoais práticos — regressão, clusterização e classificação —, nos quais adquiri experiência na coleta, limpeza e análise de dados, bem como na construção de modelos preditivos. Esses projetos permitiram uma compreensão mais aprofundada de técnicas estatísticas, algoritmos de machine learning e visualização de dados. Ademais, pude aprimorar minha habilidade em resolver problemas ao aplicar o método cíclico (CRISP). 
+Há três anos me tornei membro da Comunidade DS onde eu desenvolvi projetos pessoais práticos — regressão, clusterização e classificação —, nos quais adquiri experiência na coleta, limpeza e análise de dados, bem como na construção de modelos preditivos. Esses projetos permitiram uma compreensão mais aprofundada de técnicas estatísticas, algoritmos de machine learning e visualização de dados. Ademais, pude aprimorar minha habilidade em resolver problemas ao aplicar o método cíclico (CRISP). 
 
 Além disso, na comunidade, eu tenho a oportunidade de compartilhar conhecimentos e experiências com os membros da comunidade através de grupos de estudo, monitorias e hackdays.
 
