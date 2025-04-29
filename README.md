@@ -17,8 +17,6 @@ Há três anos me tornei membro da Comunidade DS onde eu desenvolvi projetos pes
 
 Além disso, na comunidade, eu tenho a oportunidade de compartilhar conhecimentos e experiências com os membros da comunidade através de grupos de estudo, monitorias e hackdays.
 
-Sou apaixonado por resolver problemas complexos e encontrar padrões ocultos nos dados. Com minhas habilidades analíticas consigo transformar dados em informações acionáveis (insights).
-
 
 **Ferramentas & Habilidades**
 
